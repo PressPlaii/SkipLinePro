@@ -5,5 +5,5 @@
     "module": "commonjs",
     "strict": true
   },
-  "include": ["index.ts"]
+  "include": ["src/**/*.ts"]
 }
